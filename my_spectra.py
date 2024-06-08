@@ -1,3 +1,4 @@
+# Author: Eshita Banerjee
 """ Analyse a quasar spectra """
 
 import numpy as np
